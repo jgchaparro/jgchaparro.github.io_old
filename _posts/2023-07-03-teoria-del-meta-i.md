@@ -1,5 +1,5 @@
 ---
-title: Teoría del meta, p. I
+title: Teoría del meta, parte I
 author: Jaime García Chaparro
 date: 2023-07-03 17:15:00 +0200
 categories: [Teoría del meta, Español]
