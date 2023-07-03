@@ -31,7 +31,7 @@ Las clases o conceptos, por tanto, no pueden representarse en el mapa conceptura
 
 * *¿Esto implica que nuestros conceptos giran en torno a nuestros fines? Si tuviéramos otros fines, ¿nuestro entendimiento del mundo seria distinto?* 
   * *Sí, manejaríamos otros conceptos. Simplemente tenderíamos a buscar las relaciones causa-efecto que interesan a nuestros fines. El meta y la existencia o inexistencia de esas relaciones es independiente de nuestros fines.* 
-    * *¿Seguro?*
+    * *¿Seguro de lo último?*
 
 > Para distinguir una manzana de un plátano o una banana, probablemente, lo más rápido sea fijarse en la forma o el color. Normalmente, las manzanas se conceptualizan como rojas o verdes, y los plátanos, amarillos. Eso no impide que haya manzanas amarillas o plátanos verdes. Por tanto, aunque la dimensión del color es importante, no separa perfectamente a unos de otros. 
 > 
