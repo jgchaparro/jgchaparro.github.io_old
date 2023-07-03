@@ -47,19 +47,19 @@ En función de su complejidad, los órdenes pueden apilarse unos sobre otros, de
 
 «Conforme aumenta el número de dimensiones implicadas en la modelización, la complejidad aumenta de forma no lineal al crecer el número de combinaciones. Como muestra, la fórmula de los números combinatorios muestra cómo, al aumentar el número de dimensiones, el número de combinaciones crece de forma exponencial.
 
-$$
+$
 \binom{n}{k} = \frac{n!}{k!(n-k)!}
-$$
+$
 
 Por ejemplo, al seleccionar 5 elementos de un conjunto de 9, el número de combinaciones posibles es de 126. Sin embargo, al añadir una dimensión más (+ 11 %), el número de combinaciones posibles se duplica (+ 100 %).
 
-$$
+$
 \binom{9}{5} = \frac{9!}{5!(9-5)!} = \frac{9!}{5!4!} = \frac{9*8*7*6*5*4*3*2*1}{5*4*3*2*1*4*3*2*1} = 126
-$$
+$
 
-$$
+$
 \binom{10}{5} = \frac{10!}{5!(10-5)!} = \frac{10!}{5!5!} = \frac{10*9*8*7*6*5*4*3*2*1}{5*4*3*2*1*5*4*3*2*1} = 252
-$$
+$
 
 Los órdenes, en tanto que conceptos y al igual que las clases, no tienen unas fronteras definidas, sino que también constituyen densidades de probabilidad en el espacio. Esto da lugar a solapes entre órdenes, lo que explica que...
 * ...áreas del conocimiento cercanas tenderán a exhibir reglas de causa-efecto similares.
