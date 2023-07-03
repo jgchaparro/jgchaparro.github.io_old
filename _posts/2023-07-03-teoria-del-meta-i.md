@@ -35,7 +35,7 @@ Las clases o conceptos, por tanto, no pueden representarse en el mapa conceptura
 
 > Para distinguir una manzana de un plátano o una banana, probablemente, lo más rápido sea fijarse en la forma o el color. Normalmente, las manzanas se conceptualizan como rojas o verdes, y los plátanos, amarillos. Eso no impide que haya manzanas amarillas o plátanos verdes. Por tanto, aunque la dimensión del color es importante, no separa perfectamente a unos de otros. 
 > 
-> Por otro lado, el hecho de que las frutas provengan de Canarias no ayuda a distinguir aquí, pero es crítico para separar plátanos de bananas a pesar de que ambos tienen forma y color similares. 
+> Por otro lado, el hecho de que las frutas provengan de Canarias no ayuda demasiado a distinguir plátanos de manzanas, pero es crítico para separar plátanos de bananas a pesar de que ambos tienen forma y color similares. 
 
 ## Órdenes
 
