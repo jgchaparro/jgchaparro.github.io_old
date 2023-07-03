@@ -47,7 +47,7 @@ En función de su complejidad, los órdenes pueden apilarse unos sobre otros, de
 
 «Conforme aumenta el número de dimensiones implicadas en la modelización, la complejidad aumenta de forma no lineal al crecer el número de combinaciones. Como muestra, la fórmula de los números combinatorios muestra cómo, al aumentar el número de dimensiones, el número de combinaciones crece de forma exponencial.
 
-$\binom{n}{k} = \frac{n!}{k!(n-k)!}$
+<center> <img src= https://economipedia.com/wp-content/uploads/Combinatoria-sin-repetici%25C3%25B3n-f%25C3%25B3rmula-1.jpg> </img></center>
 
 Por ejemplo, al seleccionar 5 elementos de un conjunto de 9, el número de combinaciones posibles es de 126. Sin embargo, al añadir una dimensión más (+ 11 %), el número de combinaciones posibles se duplica (+ 100 %).
 
