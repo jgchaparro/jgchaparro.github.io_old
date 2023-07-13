@@ -7,9 +7,9 @@ tags: [español, teoría del meta]
 pin: true
 # math: true
 # mermaid: true
-# image:
-#   path: /assets/imgs/TEST.png
-#   alt: Image placeholder
+image:
+  path: /assets/2023-07-03-teoria-del-meta-i/The-Great_Wave.png
+  alt: Image placeholder
 ---
 
 
