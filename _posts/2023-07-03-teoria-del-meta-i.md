@@ -5,7 +5,7 @@ date: 2023-07-03 17:15:00 +0200
 categories: [Teoría del meta, Español]
 tags: [español, teoría del meta]
 pin: true
-# math: true
+math: true
 # mermaid: true
 image:
   path: /assets/2023-07-03-teoria-del-meta-i/The-Great-Wave.png
