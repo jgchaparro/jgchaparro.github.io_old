@@ -1,5 +1,5 @@
 ---
-title: Sistematizando la realidad: teoría del meta, parte I
+title: La realidad como sistema: teoría del meta, parte I
 author: Jaime García Chaparro
 date: 2023-07-03 17:15:00 +0200
 categories: [Teoría del meta, Español]
