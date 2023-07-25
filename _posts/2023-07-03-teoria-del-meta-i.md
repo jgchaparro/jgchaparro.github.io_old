@@ -55,8 +55,7 @@ Los órdenes, en tanto que conceptos y al igual que las clases, no tienen unas f
 * ¿Órdenes superiores no tienen implicación en órdenes inferiores?
   * Si los órdenes son a las clases lo que las clases son a las entidades y las clases son espacios de probabilidad, nada impide que los espacios de probabilidades de órdenes  "superiores" se solapen con los de órdenes "inferiores".
 
-
---- 
+* ¿Qué es la relevancia?
 
 * Que las definiciones dependen de la importancia  implica que nuestros conceptos giran en torno a nuestros fines? Si tuviéramos otros fines, ¿nuestro entendimiento del mundo seria distinto?
   * Sí, manejaríamos otros conceptos. Simplemente tenderíamos a buscar las relaciones causa-efecto que interesan a nuestros fines. El meta y la existencia o inexistencia de esas relaciones es independiente de nuestros fines. 
