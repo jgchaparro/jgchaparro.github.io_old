@@ -82,7 +82,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4D03AQGLDUDnJRzykA/profile-displayphoto-shrink_800_800/0/1690286129520?e=1695859200&v=beta&t=T4VtDxRnEs_oFAWw9f3cdmdQqKhnl1RHh9ZGfWAy2ig
+avatar: https://raw.githubusercontent.com/jgchaparro/jgchaparro.github.io/main/assets/general/Profile_pic.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
