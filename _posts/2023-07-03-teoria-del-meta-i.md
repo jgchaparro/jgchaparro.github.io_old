@@ -9,7 +9,6 @@ math: true
 mermaid: true
 image:
   path: /assets/2023-07-03-teoria-del-meta-i/The-Great-Wave.png
-  alt: Image placeholder
 ---
 
 
