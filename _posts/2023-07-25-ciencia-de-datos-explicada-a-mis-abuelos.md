@@ -53,7 +53,6 @@ Pero hay un problema: ¿no habíamos dicho que Juan no conoce la receta? Entonce
 
 # Paso final: probar el producto
 
-
 Para entrenar a Carlos, Antonio prueba los platos que ha cocinado. Como conoce perfectamente cuál es el sabor de un buen plato de pescaíto frito, es capaz de corregir e indicar a Carlos cómo debe hacerlo la próxima vez. Así, sigue mejorando su técnica hasta que, un día, Carlos llega a ser capaz de elaborar los platos por sí solo sin más indicaciones. Antonio, satisfecho, decide que es el momento de ponerlo a trabajar para los clientes del restaurante, que, contentos, vuelven semana tras semana al restaurante.
 
 ¿Y qué pasa con Juan? Él no puede saber de antemano si su receta, el método que usa para predecir la lluvia, funciona. Pero sí puede esperar a mañana y ver si llueve. Si al ver toda la información, su ayudante dice que lloverá y realmente llueve, ¡enhorabuena!: sabemos que ese modelo (ayudante) con el algoritmo (receta) que hemos utilizado es bueno.
