@@ -19,7 +19,7 @@ Pocas preguntas hay que me resulten tan difíciles de responder como qué hago e
 
 > Este artículo está escrito con especial cariño para mis abuelos Paco, Loli y Carmen. Un pequeño gesto que busca corresponder a años de esfuerzo y afecto a partes iguales. La distancia que nos separa es puramente física porque la cercanía de la familia siempre permanece.
 
-Dicho esto, podemos comenzar.
+Dicho esto, podemos comenzar. 
 
 # La ciencia de datos es como la cocina
 
