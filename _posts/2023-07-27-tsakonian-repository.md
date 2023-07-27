@@ -1,15 +1,15 @@
 ---
 title: Test
 author: Jaime García Chaparro
-date: 2023-06-25 17:33:00 +0200
-categories: [Tesing, Testing2]
-tags: [testing]
+date: 2023-07-27 18:40:00 +0200
+categories: [Tsakonian, English]
+tags: [tsakonian]
 pin: false
 # math: true
 # mermaid: true
-# image:
-#   path: /assets/imgs/TEST.png
-#   alt: Image placeholder
+image:
+  path: /assets/2023-07-27-tsakonian-repository/tsakonian-sign.jpg
+  alt: Sign in Tsakonian
 ---
 
 
