@@ -4,7 +4,7 @@ author: Jaime García Chaparro
 date: 2023-07-25 18:40:00 +0200
 categories: [Ciencia de datos, Español]
 tags: [español, ciencia de datos]
-pin: false
+pin: true
 math: true
 mermaid: true
 image:
