@@ -13,6 +13,3 @@ image:
 ---
 
 # This is a test
-
-τθούμα
-τ̇ουμα
