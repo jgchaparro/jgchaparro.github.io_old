@@ -207,11 +207,6 @@ Includes singular nouns ending in -α,-η,-ε and -ου.
 
 #### Ending in -μα / -ιμο
 
-	Ενικός	Πληθυντικός
-Singular	Plural
-Ονομ. Nom. / Αιτ. Acc.	το άρτουμα [to ártuma]	τα αρτούματα [ta artúmata]
-Γεν. Gen.	του αρτουμάτου [tu artumátu]	---
-
 | Case | Art. | Singular | Art. | Plural |
 | --- | --- | --- | --- | --- |
 | N / A | το | **-μα / -ιμο** | τα |  **-ματα** |
@@ -238,28 +233,12 @@ Singular	Plural
 **Notes:**
 *  The genitive singular is always stressed on the penultimate syllable.
 
-Α3.6 ουδέτερα σε -ι, πληθ. -α   neuter nouns in -ι , pl. -α
-χόντι
-χόρτο  grass, herb
-Ενικός	Πληθυντικός
-Singular	Plural
-Ονομ. Nom. / Αιτ. Acc.	το χόντι [to xóndi]	τα χόντα [ta xónda]
-Γεν. Gen.	του χόντου [tu xóndu]	---
-
 #### Ending in -ι, plural in -α
 
 | Case | Art. | Singular | Art. | Plural |
 | --- | --- | --- | --- | --- |
 | N / A | το | **-ι** | τα |  **-α** |
 | G | του | **-ου** | ? | **?** |
-
-Α3.7 ουδέτερα σε -ι, πληθ. -ητα   neuter nouns in -ι , pl. -ητα
-βάρι
-βάρος weight
-Ενικός	Πληθυντικός
-Singular	Plural
-Ονομ. Nom. / Αιτ. Acc.	το βάρι [to vári]	τα βάρητα [ta várita]
-Γεν. Gen.	---	---
 
 #### Ending in -ι
 
@@ -275,17 +254,40 @@ Singular	Plural
 | N / A | το | **-ε** | τα |  **-ατα** |
 | G | του | **-έου** | ? | **?** |
 
-Α3.9 ουδέτερα σε -ου, πληθ. -α   neuter nouns in -ου , pl. -α
-το κρέμμου
-κρεμμύδι onion
-Ενικός	Πληθυντικός
-Singular	Plural
-Ονομ. Nom. / Αιτ. Acc.	το κρέμμου [to krému]	τα κρέμμα [ta kréma]
-Γεν. Gen.	---	---
-
 #### Ending in -ου
 
 | Case | Art. | Singular | Art. | Plural |
 | --- | --- | --- | --- | --- |
 | N / A | το | **-ου** | τα |  **-α** |
 | G | του | **-ού** | ? | **?** |
+
+#### Irregular nouns
+
+| Singular | Plural | Translation |
+| --- | --- | --- |
+| κόκαλε | κόκα | κόκαλο  - bone |
+| τσχέρβουλε | τσχέρβα | παπούτσι - shoe |
+| πφιτόκαλε | πφιτόκα | πλάστης - rolling-pin |
+| κάλλι | κάβα | ξύλο - wood |
+| μάλλι | μάβα | μήλο - apple |
+| άι | άζα | λάδι - olive oil |
+
+## Adjectives
+
+	Αρσενικό	Θηλυκό	Ουδέτερο
+Ενικός Singular	Masc.	Fem.	Neuter
+Ονομ. Nom. / Αιτ. Acc.	ατЁέ [atʃé]	ατЁά [atʃá]	ατЁέ [atʃé]
+Γεν. Gen.	ατЁού [atʃú]	ατЁά [atʃá]	ατЁού [atʃú]
+Πληθ. Plural			
+Ονομ. Nom. / Αιτ. Acc.	ατЁοί [atʃí]	ατЁοί [atʃí]	ατЁά [atʃá]
+
+### Adjectives in  -ε, -α, -ε/-ο
+
+**Singular**
+
+| Number + case | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| Sing. N / A | **-ε** | **-α** | **-ε** |
+| Sing. G | **-ου** | **-α** | **-ου** |
+| Plural | **-οι** | **-οι** | **-α** | 
+
