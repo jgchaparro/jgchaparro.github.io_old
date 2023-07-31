@@ -274,20 +274,299 @@ Includes singular nouns ending in -α,-η,-ε and -ου.
 
 ## Adjectives
 
-	Αρσενικό	Θηλυκό	Ουδέτερο
-Ενικός Singular	Masc.	Fem.	Neuter
-Ονομ. Nom. / Αιτ. Acc.	ατЁέ [atʃé]	ατЁά [atʃá]	ατЁέ [atʃé]
-Γεν. Gen.	ατЁού [atʃú]	ατЁά [atʃá]	ατЁού [atʃú]
-Πληθ. Plural			
-Ονομ. Nom. / Αιτ. Acc.	ατЁοί [atʃí]	ατЁοί [atʃí]	ατЁά [atʃá]
-
-### Adjectives in  -ε, -α, -ε/-ο
+### Adjectives ending in  -ε, -α, -ε/-ο
 
 **Singular**
 
 | Number + case | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
-| Sing. N / A | **-ε** | **-α** | **-ε** |
+| Sing. N / A | **-ε** | **-α** | **-ε / -ο** |
 | Sing. G | **-ου** | **-α** | **-ου** |
 | Plural | **-οι** | **-οι** | **-α** | 
 
+### Adjectives ending in -ε, -α / -ε, -ου
+
+Number |	Masculine	| Feminine | Neuter |
+| --- | --- | --- | --- |
+| Sing. | **-ε** | **-α / -ε** | **-ου** |
+| Plural | **-οι** | **-οι** | **-α** |
+
+### Adjectives ending in -ε, -ε, -ε
+
+| Number | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| Sing. | **-ε** | **-ε** | **-ε** |
+| Plural | **-οι** | **-οι** | **-α** |
+
+#### Adjectives ending in -ο, -ο, -ο
+
+| Number + case | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| Sing. N / A | **-ο** | **-ο** | **-ο** |
+| Sing. G | **-ου** | **-ου** | **-ου** |
+| Plural | **-οι** | **-οι** | **-α** |
+
+#### Adjectives ending in -ιού, -ία, -ιού
+
+| Number | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| Sing. | **-ιού** | **-ία** | **-ιού** |
+| Plural | **-οί** | **-ίε** | **-ία** |
+
+#### Adjectives ending in -η, -α, -ικο
+
+| Number + case | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| Sing. N / A | **-η** | **-α** | **-ικο** |
+| Sing. G | **-η** | **-α** | **-ικου** |
+| Plural | **-ηδε** | **-ε** | **-ικα** |
+
+**Notes**:
+* Is it reserved only for people? (`check!`)
+
+## Pronouns
+
+### Personal pronouns
+
+#### First person singular
+
+| Case | Empathic | Clitic |
+| --- | --- | --- |
+| N | **εζού / εζούνε** | --- |
+| A / D | **ενίου** | **μι** |
+| G | --- | **μι** |
+| P | **ενίου** | --- |
+
+#### Second person singluar
+
+| Case | Empathic | Clitic |
+| --- | --- | --- |
+| N | **εκιού / εκιούνε** | --- |
+| A / D | **ετίου** | **ντι** |
+| G | --- | **ντι** |
+| P | **ετίου** | --- |
+
+#### Third person singular
+
+| Case | Empathic | Clitic |
+| --- | --- | --- |
+| N | --- | --- |
+| A / D | --- | **νι** |
+| G | --- | **σι** |
+| P | --- | --- |
+
+#### First person plural
+
+| Case | Empathic | Clitic |
+| --- | --- | --- |
+| N | **ενεί** | --- |
+| A / D | **εμού / εμούνανε / ενείνανε** | **νάμου, νάμι** |
+| G | --- | **νάμου** |
+| P | **εμού / εμούνανε / ενεί / ενείνανε** | --- |
+
+**Notes**:
+
+* The clitic form `νάμου` has its own stress accent and does not cause a secondary stress accent on the last syllable of words where the main accent is on the 3rd syllable from the end - compare ο άθρωπο νάμου (our person) v. ο άθρωπό μι (my person)
+* When used as an object pronoun (non-emphatic) in conjunction with other pronouns the final vowel becomes [i]. This probably originated as a fast-speech phenomenon.
+
+#### Second person plural
+
+| Case | Empathic | Clitic |
+| --- | --- | --- |
+| N | **εμού** | --- |
+| A / D | **εμού / εμούνανε** | **νιούμου, νιούμι** |
+| G | --- | **νιούμου** |
+| P | **εμού / εμούνανε** | --- |
+
+**Notes**:
+* The clitic form `νιούμου` has its own stress accent and does not cause a secondary stress accent on the last syllable of words where the main accent is on the 3rd syllable from the end.
+* When used as an object pronoun (non-emphatic) in conjunction with other pronouns the final vowel becomes [i]. This probably originated as a fast-speech phenomenon.
+
+#### Third person plural
+
+| Case | Empathic | Clitic |
+| --- | --- | --- |
+| N | --- | --- |
+| A / D | --- | **σι** |
+| G | --- | **σου** |
+| P | --- | --- |
+
+**Notes**:
+
+* The demonstrative έτεοι/έταϊ these is used for the emphatic forms.
+
+### Demonstratives
+
+### Articles ο, α, το
+
+| Number | Case | Masc. | Fem. | Neut. |
+| --- | --- | --- | --- | --- |
+| Sing. | N | **ο** | **α** | **το** |
+| Sing. | A | **το(ν)** | **τα(ν) | **το** |
+| Sing. | A + σε | **τθο(ν)** | **τθα(ν)** | **τθο** |
+| Sing. | G | **του** | **τα(ρ)** | **του** |
+| Pl. | N | **οι** | **οι** | **τα** |
+| Pl. | A | **του(ρ)** | **του(ρ)** | **τα** |
+| Pl. | A + σε | **τθου(ρ)** | **τθου(ρ)** | **τθα** |
+
+### Demonstrative έντεννι
+
+| Number | Masc. | Fem. | Neut. |
+| --- | --- | --- | --- |
+| Sing. | **έντννι** | **ένταννι** | **έγκεινι** |
+| Pl. | **έντεοι** | **έντεοι** | **ένταοι** |
+
+### Demonstrative ετήνε
+
+| Number | Masc. | Fem. | Neut. |
+| --- | --- | --- | --- |
+| Sing. | **ετήνε** | **ετήνα** | **έκεινι** |
+| Pl. | **ετήννοι** | **ετήννοι** | **έταϊ** |
+
+## Verbs
+
+### General features
+
+* The present and imperfect indicative are formed periphrastically using ένι + an active or passive participle
+
+* The negative particle in indicative tenses is **o** [o] < AG οὐ
+
+* **ο** fuses with **ένι** to create special negative forms of the verb to be, these also mark the negative in all tenses where **ένι** is used as an auxiliary (except the conditional), e.g. **έμε** 'we are' v. **όμε** 'we are not'
+
+* Modern Greek δεν can be used in place of ο as a negative in all tenses except those using **ένι** as an auxiliary, e.g. **δεν επέκαμε** 'we didn't say' v. **ο πέκαμε** 'we didn't say'
+
+* **Μη(ν)** is the negative used with the subjunctive
+
+* The auxiliary verbs are **ένι** 'to be' and **έχου** 'to have'
+
+* The present subjunctive has a different stem from that of the present indicative in many verbs, e.g.**ένι αραμού** 'I stay' v. **να αραμήνου** 'that I stay'
+
+* The passive form of the present and imperfect has a different stem from that of the active in some verbs e.g. **είνι σχονίχουντε** 'they heat' v. **είνι σχονισκουνέννοι** 'they are heated'
+
+* In many verbs the aorist active is formed using a **-κ-** suffix (from the AG perfect)
+
+* In contract verbs the aorist subjunctive is formed using a sequence of vowels (due the loss of /s/ between vowels in Laconian). This leads to contraction as follows: 
+  * /i+i/ = /i/ (**ρωτή** + **ει** = **ρωτεί**),
+  * /u+u/ = /u/ (**κχοντού** + **ου** = **κχοντού**),
+  * /u+o/ = /u/ (**κχοντού** + **ομε** = **κχοντούμε**),
+  * /e+e/ =/e/ (**καλέ** + **ερε** = **καλέρε**),
+  * /a+o/ = /a/ (**ορά** + **ομε** = **οράμε**),
+  * /a+e/ = /a/ (**ορά** + **ερε** = **οράρ**ε)
+
+* Some verbs have a contracted form of the indicative aorist active due to the loss of a consonant between vowels, e.g. *εφωνιάσα (or *εφωνιάγα?) > **εφωνιά** ‘I shouted’, *αλλάξα (or *αλλάγα) > **αά** ‘I changed’
+
+* The aorist passive is formed with personal endings attached directly to the root vowel in the first person e.g. **ορα-** > **οράμα** ‘I was seen’, **κοφ-** > **εκόμα** ‘I was cut’; in the other persons a suffix (e.g. **-τθ-**) is inserted between the root and the personal ending e.g. **ορα-** + **τθ** + personal ending > **οράτθερε** ‘you were seen’, **κοφ-** + **τ** + personal ending > **εκόφτερε** ‘you were cut’
+
+* The past participle in **-τέ** (< AG verbal adjective in -τος) is used with **ένι** to form the perfect (+ related tenses) passive and the perfect active of verbs of motion, e.g. **α χούρα έννι σεριτθά** 'the field has been harvested', **αμα κάναμε 'νει έκι φυτθέ ετήνε** 'when we came he had gone' (pluperfect)
+
+* The past participle in **-τέ** is used with **ένι έχου** to form the perfect active (+ related tenses), e.g. **ένι έχα δατέ τον άντε πρεσσοί βολέ** 'I have burnt the bread many times'
+
+* Tsakonian has a conditional formed using the particles **θάκια** or **έκι θα** + present or aorist subjunctive, e.g. **αν έκι όρπα θάκια νι οράου** 'if he had been there, I would have seen him'
+
+* The citation form for Tsakonian verbs is the masculine singular present participle active (e.g. γράφου) or the equivalent passive form if the verb has no active voice (e.g. γινούμενε)
+
+## Verb ένι - to be
+
+### Present indicative
+
+**Positive form**
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **ένι** | **έμε** |
+| 2 | **έσι** | **ετθε** |
+| 3 | **έννι** | **είνι** |
+
+**Negative form**
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **όνι** | **όμε** |
+| 2 | **όσι** | **ότθε** |
+| 3 | **όννι** | **ούνι** |
+
+### Imperfect tense
+
+**Positive form**
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **έμα** | **έμαϊ** |
+| 2 | **έσα** | **έτθαϊ** |
+| 3 | **έκι** | **ήγκι(αϊ)** |
+
+**Negative form**
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **όμα** | **όμαϊ** |
+| 2 | **όσα** | **ότθαϊ** |
+| 3 | **όκι** | **ούγκι(αϊ)** |
+
+## Verb έχου - to have
+
+### Present indicative - Ενεστώτας
+
+**Positive form**
+
+| Number + person | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| 1st sing. | **ένι έχου** | **ένι έχα** | **ένι έχουντα** |
+| 2nd sing. | **έσι έχου** | **έσι έχα** | **έσι έχουντα** |
+| 3rd sing. | **έννι έχου** | **έννι έχα** | **έννι έχουντα** |
+| 1st pl. | **έμε έχουντε** | **έμε έχουντε** | **έμε έχουντα** |
+| 2nd pl. | **έЋε έχουντε** | **έЋε έχουντε** | **έЋε έχουντα** |
+| 3rd pl. | **είνι έχουντε** | **είνι έχουντε** | **είνι έχουντα** |
+
+**Negative form**
+
+| Number + person | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| 1st sing. | **όνι έχου** | **όνι έχα** | **όνι έχουντα** |
+| 2nd sing. | **όσι έχου** | **όσι έχα** | **όσι έχουντα** |
+| 3rd sing. | **όννι έχου** | **όννι έχα** | **όννι έχουντα** |
+| 1st pl. | **όμε έχουντε** | **όμε έχουντε** | **όμε έχουντα** |
+| 2nd pl. | **ότθε έχουντε** | **ότθε έχουντε** | **ότθε έχουντα** |
+| 3rd pl. | **ούνι έχουντε** | **ούνι έχουντε** | **ούνι έχουντα** |
+
+### Present subjunctive - Υποτακτική ενεστώτα
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **έχου** | **έχομε** |
+| 2 | **έχερε** | **έχετε** |
+| 3 | **έχει** | **έχωι** |
+
+### Imperative - Προστακτική
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 2 | **έχε** | **έχετε** |
+
+### Imperfect - Παρατατικός
+
+| Number + person | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| 1st sing. | **έμα έχου** | **έμα έχα** | **έμα έχουντα** |
+| 2nd sing. | **έσα έχου** | **έσα έχα** | **έσα έχουντα** |
+| 3rd sing. | **έκι έχου** | **έκι έχα** | **έκι έχουντα** |
+| 1st pl. | **έμαϊ έχουντε** | **έμαϊ έχουντε** | **έμαϊ έχουντα** |
+| 2nd pl. | **έЋαϊ έχουντε** | **έЋαϊ έχουντε** | **έЋαϊ έχουντα** |
+| 3rd pl. | **ήγκι έχουντε** | **ήγκι έχουντε** | **ήγκι έχουντα** |
+
+
+### Future - Μέλλοντας
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **θα έχου** | **θα έχομε** |
+| 2 | **θα έχερε** | **θα έχετε** |
+| 3 | **θα έχει** | **θα έχωι** |
+
+### Conditional - Υποθετική
+
+| Person | Sing. | Pl. |
+| --- | --- | --- |
+| 1 | **θάκια έχου** | **θάκια έχομε** |
+| 2 | **θάκια έχερε** | **θάκια έχετε** |
+| 3 | **θάκια έχει** | **θάκια έχωι** |
